@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://profile.github.technicalcynic.com/view?user=mrfredericks)
 
 <!--
 **mrfredericks/mrfredericks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
